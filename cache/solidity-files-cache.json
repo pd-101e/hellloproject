@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/prathmesh/Desktop/sem/8th/report file/project/my-react-app/contracts/Freelancing.sol": {
+      "lastModificationDate": 1683744501499,
+      "contentHash": "881d913feecc31baca36869e03970aab",
+      "sourceName": "contracts/Freelancing.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Freelancing"
+      ]
+    }
+  }
+}
